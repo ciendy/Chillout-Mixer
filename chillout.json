@@ -1,1 +1,37 @@
-{"room":"Chillout Mixer","css":"","rules":{"allowAutorespond":true,"allowAutowoot":true,"allowAutojoin":false,"allowAutograb":false,"allowShowingMehs":false},"ccc":{"admin":"","ambassador":"","host":"","cohost":"","manager":"","bouncer":"","rdj":"","subscriber":"","silversubscriber":"","friend":null,"user":null},"icon":"","images":{"background":"https://i.imgur.com/TDfHDgV.jpg","playback":"","admin":"","ambassador":"","host":"","cohost":"","manager":"","bouncer":"h","rdj":"","subscriber":null}}
+{
+   "room":"Chillout Mixer",
+   "css":"",
+   "rules":{
+      "allowAutorespond":true,
+      "allowAutowoot":true,
+      "allowAutojoin":false,
+      "allowAutograb":false,
+      "allowShowingMehs":false
+   },
+   "ccc":{
+      "admin":"",
+      "ambassador":"",
+      "host":"",
+      "cohost":"",
+      "manager":"",
+      "bouncer":"",
+      "rdj":"",
+      "subscriber":"",
+      "silversubscriber":"",
+      "friend":null,
+      "user":null
+   },
+   "icon":"",
+   "images":{
+      "background":"https://i.imgur.com/TDfHDgV.jpg",
+      "playback":"",
+      "admin":"",
+      "ambassador":"",
+      "host":"",
+      "cohost":"",
+      "manager":"",
+      "bouncer":"h",
+      "rdj":"",
+      "subscriber":null
+   }
+}
