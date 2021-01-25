@@ -1,6 +1,6 @@
 {
    "room":"Chillout Mixer",
-   "css":"",
+   "css":"https://raw.githack.com/ciendy/Chillout-Mixer/main/theme.css",
    "rules":{
       "allowAutorespond":true,
       "allowAutowoot":true,
@@ -9,29 +9,29 @@
       "allowShowingMehs":false
    },
    "ccc":{
-      "admin":"",
-      "ambassador":"",
-      "host":"",
-      "cohost":"",
-      "manager":"",
-      "bouncer":"",
-      "rdj":"",
-      "subscriber":"",
-      "silversubscriber":"",
-      "friend":null,
+      "admin":"null",
+      "ambassador":"null",
+      "host":"null",
+      "cohost":"null",
+      "manager":"null",
+      "bouncer":"null",
+      "rdj":"null",
+      "subscriber":"null",
+      "silversubscriber":"null",
+      "friend":"null",
       "user":null
    },
-   "icon":"",
+   "icon":"null",
    "images":{
       "background":"https://i.imgur.com/TDfHDgV.jpg",
-      "playback":"",
-      "admin":"",
-      "ambassador":"",
-      "host":"",
-      "cohost":"",
-      "manager":"",
-      "bouncer":"h",
-      "rdj":"",
+      "playback":"null",
+      "admin":"null",
+      "ambassador":"null",
+      "host":"null",
+      "cohost":"null",
+      "manager":"null",
+      "bouncer":"null",
+      "rdj":"null",
       "subscriber":null
    }
 }
