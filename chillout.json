@@ -1,6 +1,6 @@
 {
    "room":"Chillout Room",
-   "css":"https://raw.githack.com/ciendy/Chillout-Mixer/main/theme.css",
+   "css":"https://raw.githack.com/ciendy/chillout-room/main/theme.css",
    "rules":{
       "allowAutorespond":true,
       "allowAutowoot":true,
